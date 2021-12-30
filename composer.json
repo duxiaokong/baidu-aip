@@ -1,0 +1,29 @@
+{
+  "name": "duxiaokong/baidu-aip",
+  "description": "百度AI",
+  "keywords": [
+    "百度AI"
+  ],
+  "license": "Apache-2.0",
+  "minimum-stability": "stable",
+  "type": "library",
+  "homepage": "https://github.com/duxiaokong/baidu-aip",
+  "authors": [
+    {
+      "name": "duxiaokong",
+      "email": "1024114660@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "suggest": {
+  },
+  "autoload": {
+    "psr-4": {
+      "BaiduAIP\\": "src/"
+    },
+    "files": [
+    ]
+  }
+}
